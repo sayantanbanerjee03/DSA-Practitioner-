@@ -1,2 +1,2 @@
-# DSA-Practitioner-
-Underwork Repository for Beginner Friendly DSA Practitioner
+# DSA-Intro-
+Repository for Beginner INTRODUCTION TO DSA
