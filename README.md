@@ -1,2 +1,2 @@
 # DSA-Intro to Intermediate -
-Repository for Beginner Friendy DSA Que 
+Repository for Beginner Friendly DSA Que 
